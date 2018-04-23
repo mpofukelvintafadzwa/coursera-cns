@@ -3,5 +3,5 @@ Course notes and assignments for Coursera's Computational Neuroscience course. I
 
 Weekly problem sets are coded in python. PDF notes are annotated with stickies, accessible by opening file in Adobe Reader. 
 
-Expected graduation with certificate early May 2018.
+Expected graduation with certificate June 2018.
 
