@@ -1,5 +1,7 @@
+# Week 2 - Neural Encoding - Task Description
+
 This week's content concerned models of neural encoding. Specifically, using a neuron's Spike-Triggered Average (STA) to try to understand the features within the stimulus that prompted this neuron's response. 
 
-Using a provided dataset of spikes from a motio-senstive neuron of a fly, the fly's STA was computed by writing a Python script.
+Using a provided dataset of spikes collected from a motion-senstive neuron in a fly, a Python script was built to compute the neuron's STA.
 
 The script outputs a plot of the fly's STA, which can be seen in the 'plots' folder.
