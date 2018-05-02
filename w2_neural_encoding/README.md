@@ -4,4 +4,4 @@ This week's content concerned models of neural encoding. Specifically, using a n
 
 Using a provided dataset of spikes collected from a motion-senstive neuron in a fly, a Python script was built to compute the neuron's STA.
 
-The script outputs a plot of the fly's STA, which can be seen in the 'plots' folder.
+The script outputs a plot of the fly's STA, which can be seen in the 'plots' folder. Based on the plot, I was able to conclude that spikes were most reliably observed through constant postive stimuli.
