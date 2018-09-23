@@ -1,8 +1,4 @@
 """
-Created on Wed Apr 22 15:15:16 2015
-
-@author: rkp
-
 Quiz 2 code.
 """
 
